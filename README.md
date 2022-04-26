@@ -1,2 +1,2 @@
 # WordleClone
-A simple Wordle clone
+A simple Wordle clone developed with React
