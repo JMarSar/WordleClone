@@ -1,2 +1,2 @@
 # WordleClone
-A simple Wordle clone developed in React, Tailwind and vitest!
+A simple Wordle clone developed in React!
